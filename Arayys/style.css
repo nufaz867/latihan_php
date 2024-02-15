@@ -1,0 +1,22 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h2 {
+    color: aqua;
+}
+
+h1 {
+    color: brown;
+}
+
+p {
+    color: brown;
+}
+
+pre {
+    color: rgb(226, 104, 43);
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: cadetblue;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+p {
+    color: cadetblue;
+}
